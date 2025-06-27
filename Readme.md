@@ -52,7 +52,7 @@ Target variable: `Survived` (0 = No, 1 = Yes)
 ## 📁 Files Included
 
 - `cleaned_data.csv` – My preprocessed Titanic dataset
-- `logistic_regression_task4.ipynb` – Code & plots
+- `Binary.ipynb` – Code & plots
 - `README.md` – This file
 
 ---
